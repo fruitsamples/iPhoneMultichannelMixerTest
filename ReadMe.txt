@@ -44,14 +44,12 @@ None
 ===========================================================================
 BUILD REQUIREMENTS:
 
-Mac OS X v10.5.7, Xcode 3.1.3, iPhone OS 3.0
+iOS 4.0 SDK
 
 ===========================================================================
 RUNTIME REQUIREMENTS:
 
-Simulator: Mac OS X v10.5.7
-iPhone: iPhone OS 3.0
-
+iPhone OS 3.2 or later
 
 ===========================================================================
 PACKAGING LIST:
@@ -79,8 +77,9 @@ framework for the demonstration code in this file.
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS:
 
+Version 1.1, upgraded project to build with the iOS 4 SDK.
 Version 1.0, tested with iPhone OS 3.0. First public release.
 
 
 ================================================================================
-Copyright (C) 2009 Apple Inc. All rights reserved.
+Copyright (C) 2009-2010 Apple Inc. All rights reserved.
